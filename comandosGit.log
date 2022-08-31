@@ -1,0 +1,41 @@
+    1  dir
+    2  exit
+    3  git init
+    4  git status
+    5  git status
+    6  git add comandosGit.txt
+    7  git status
+    8  new file
+    9  git commit -m "Se agrego un nuevo archivo"
+   10  git status
+   11  git show
+   12  history
+   13  history > comandosGit.txt
+   14  git status
+   15  history > comandosGit.log
+   16  git status
+   17  history >> comandosGit.log
+   18  history >> comandosGit.txt
+   19  history >> comandosGit.txt
+   20  history >> comandosGit.txt
+   21* 
+   22  git status
+   23  git add . 
+   24  git status
+   25  git commit
+   26  git status
+   27  git show
+   28  git branch
+   29  git branch cambios
+   30  git branch
+   31  git checkout
+   32  git checkout cambios
+   33  history > comandosGit.txt
+   34  git status
+   35  git commit -m "Se agrego un cambio"
+   36  git add .
+   37  git status
+   38  git commit
+   39  git status
+   40  git checkout master
+   41  history > comandosGit.log
